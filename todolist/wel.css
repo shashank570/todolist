@@ -1,0 +1,14 @@
+body {
+background-image:url("img.jpg");
+background-size:1500px 700px;
+background-repeat: no-repeat;
+
+}
+
+h1{
+	text-align: center;
+}
+
+.nn{
+	text-align: center;
+}
